@@ -1,5 +1,6 @@
 # Super-Hero-Hunter
 A web application for comic enthusiasts
+<br/>
 Features:
 •	Search
 •	Search suggestion
