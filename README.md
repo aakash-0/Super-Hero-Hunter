@@ -1,8 +1,9 @@
 # Super-Hero-Hunter
-A web application for comic enthusiasts
+<h3>A web application for comic enthusiasts
 <br/>
-<h3Features<h3>:<br/>
+Features:<br/>
 •	Search<br/>
 •	Search suggestion<br/>
 •	Add and remove searched hero to favorite list<br/>
 Tech Stack: HTML | CSS | Javascript
+  <h3/>
