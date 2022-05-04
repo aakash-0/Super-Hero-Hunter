@@ -23,3 +23,9 @@ If you want to visit this cloned website then it is recommended to go through th
 - Clone the repository `https://github.com/aakash-0/Super-Hero-Hunter`
 - Then Open the code in your VS code
 - At last Open the `index.html` with Live server
+
+ <img src="https://miro.medium.com/max/1400/1*kbYAXLvvgmO9dfzNPsl-zQ.png">
+  
+  <img src="https://miro.medium.com/max/1400/1*5FV9MvSmzduexegRs1CzyQ.png">
+  
+  <img src="https://miro.medium.com/max/1400/1*R8H3fpYQ9r2IeiHRBgAu3g.png">
